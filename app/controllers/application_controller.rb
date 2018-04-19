@@ -10,6 +10,6 @@ class ApplicationController < ActionController::Base
   end
 
   def cebuventures
-  	render html: "Cebu Ventures, Copyright 2018, Roseele Dahang"
+  	render html: "Cebu Ventures, Copyright 2018, Roseele Dahang :)"
   end
 end
