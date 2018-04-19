@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
   get 'welcome/index'
 
-  root 'application#goodbye'
+  root 'application#cebuventures'
 
   #root 'welcome#index'
 

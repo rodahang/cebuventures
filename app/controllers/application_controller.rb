@@ -8,4 +8,8 @@ class ApplicationController < ActionController::Base
   def goodbye
   	render html: "goodby, world"
   end
+
+  def cebuventures
+  	render html: "Cebu Ventures, Copyright 2018, Roseele Dahang"
+  end
 end
